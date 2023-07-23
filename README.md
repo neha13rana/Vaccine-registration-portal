@@ -1,6 +1,7 @@
 # Vaccine-registration-portal
 
 --> In this project, I have created a Portal which can handle the registered data of the patient. The patient has to first register by his/herself then log in their self and add the details related to the vaccine then book their dose in the available hospital.
+--> This system is created by using the concept of DSA.
 
 --> We tried to create a small version of the Vaccine registration portal which takes the user data such as name, ID, password, Mobile Number, etc.According to the user’s requirement, we tried to allocate the hospital in such a way that no one can Dissatisfied with this portal Anybody can access this portal from the valid site and register
 themselves for vaccination. We know how tough situations like corona and so and so we need this system for people’s help.
